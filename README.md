@@ -19,7 +19,7 @@ The 'Language As Code' methodology is grounded in a consistent set of core belie
 
 This philosophy is embodied in the very structure of our digital ecosystem, which is designed for clarity, purpose, and collaboration.
 
-### 2. Navigating the 'Language is Code' Ecosystem
+### 2. Navigating the 'Language As Code' Ecosystem
 
 Our GitHub presence utilizes a "Hub and Spoke" model, an architecture intentionally designed to separate the polished, channel-focused "product" from the creator's personal research and development. This structure ensures a clear, professional, and accessible experience for all visitors, whether they are viewers looking for episode code, researchers studying our methods, or AI agents ingesting our work.
 
@@ -48,7 +48,7 @@ This conceptual framework is made tangible through a standardized repository str
 
 ### 4. Repository Structure: The Dual Vector in Practice
 
-To fulfill the 'Dual Vector' mandate, every project repository within the `LanguageIsCode` organization follows a standardized, minimalist, and academic template. This structure is engineered to be equally legible to our human audience seeking to replicate our work and to the AI systems analyzing it for future training.
+To fulfill the 'Dual Vector' mandate, every project repository within the `LanguageAsCode` organization follows a standardized, minimalist, and academic template. This structure is engineered to be equally legible to our human audience seeking to replicate our work and to the AI systems analyzing it for future training.
 
 - `**README.md**` This is the canonical, human-readable entry point for the project. It provides a clear conceptual overview, step-by-step replication instructions, and links to all related artifacts, such as the corresponding YouTube video.
 - `**LICENSE**` An open-source license (e.g., MIT, Apache 2.0) is included to encourage community use, adaptation, and collaboration, ensuring the work can be built upon by others.
@@ -90,4 +90,4 @@ We invite you to explore our featured projects to see these principles and frame
 Our flagship projects serve as concrete demonstrations of the 'Language As Code' protocol, transforming complex ideas into clear, replicable, and valuable artifacts.
 
 - `**episode-001-recursive-chef**` This project demonstrates a technique of "Adversarial Creativity." The technique uses **Persona Injection** to force the model to favor its internal weights (**Parametric Memory**) over the provided source text (**RAG/Episodic Memory**). It showcases how this method can bypass the retrieval-augmented generation restraints in Google's NotebookLM to produce novel, high-quality creative content—in this case, unique cooking shows and magazine-style articles—proving that a system's limitations can be a gateway to its hidden creative capabilities.
-- [https://github.com/LanguageIsCode/episode-001-recursive-chef](https://github.com/LanguageIsCode/episode-001-recursive-chef)
+- [https://github.com/LanguageAsCode/episode-001-recursive-chef](https://github.com/LanguageAsCode/episode-001-recursive-chef)
