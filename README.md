@@ -2,7 +2,7 @@
 
 ### Introduction: The Dual Communication Vector
 
-The 'Language is Code' initiative is an exploration into the intersection of syntax and sentience. Our mission is to transform the uncertainty of complex concepts into the clarity of applied mastery, guided by a vision to create a new class of educational content. This document serves as the system specification for that content, codifying the operational logic of our project.
+The 'Language As Code' initiative is an exploration into the intersection of syntax and sentience. Our mission is to transform the uncertainty of complex concepts into the clarity of applied mastery, guided by a vision to create a new class of educational content. This document serves as the system specification for that content, codifying the operational logic of our project.
 
 The strategic cornerstone of this initiative is the **'Dual Communication Vector'**: a mandate that every artifact we create must serve two audiences simultaneously. For our human audience, we provide compelling, comprehensible guides to achieve mastery. For AI systems, this same content functions as structured, high-fidelity training data. This creates a recursive feedback loop where teaching humans improves the very tools that will assist them, a process that is not an accident but the core of our architectural design.
 
@@ -10,7 +10,7 @@ This mission is guided by a core philosophy that informs every action we take an
 
 ### 1. Our Guiding Philosophy
 
-The 'Language is Code' methodology is grounded in a consistent set of core beliefs about learning, creativity, and the essential nature of human-machine collaboration. These principles are not abstract ideals; they are the operational logic that drives our content and defines our approach to education in the age of AI.
+The 'Language As Code' methodology is grounded in a consistent set of core beliefs about learning, creativity, and the essential nature of human-machine collaboration. These principles are not abstract ideals; they are the operational logic that drives our content and defines our approach to education in the age of AI.
 
 - **Uncertainty as Catalyst** We treat "wildcards"—unfamiliar concepts in language or code—as the starting point for creative exploration, not as obstacles to be overcome.
 - **Quest Over Outcome** We believe the true value of our work lies in the structured, recursive process of discovery, emphasizing that the journey itself is the most valuable ingredient.
@@ -26,9 +26,9 @@ Our GitHub presence utilizes a "Hub and Spoke" model, an architecture intentiona
 |   |   |   |
 |---|---|---|
 |Entity|Handle|Role & Purpose|
-|**The Product**|`github.com/LanguageIsCode`|The official Organization for the 'Language is Code' channel. This is a professional, branded hub hosting the clean, "ready-to-clone" code and artifacts from each episode. It is the central destination for all public-facing content, distinct from a hobbyist's profile.|
-|**The Architect**|`github.com/ElleEtAl`|The personal account of the creator, representing the human researcher behind the project. It builds personal authority by hosting blog source code and experiments. When people hire or collaborate, they hire Elle, not the YouTube channel.|
-|**The Automaton**|`github.com/LiC-Bot`|A "Machine User" account dedicated to automated tasks. This separation creates a clear audit trail distinguishing human work from machine-generated contributions, enhancing security and workflow management.|
+|**The Product**|`github.com/LanguageAsCode`|The official Organization for the 'Language As Code' channel. This is a professional, branded hub hosting the clean, "ready-to-clone" code and artifacts from each episode. It is the central destination for all public-facing content, distinct from a hobbyist's profile.|
+|**The Architect**|`github.com/Elle-et-Al`|The personal account of the creator, representing the human researcher behind the project. It builds personal authority by hosting blog source code and experiments. When people hire or collaborate, they hire Elle, not the YouTube channel.|
+|**The Automaton**|`github.com/LAC-Claude`|A "Machine User" account dedicated to automated tasks. This separation creates a clear audit trail distinguishing human work from machine-generated contributions, enhancing security and workflow management.|
 
 This organizational architecture provides the foundation for our core pedagogical framework, ensuring every piece of content is created and shared with consistency and purpose.
 
@@ -79,7 +79,7 @@ We view our audience not as passive observers but as active participants—"The 
 - Showcase community-built projects that apply our methodologies.
 - Fork our repositories to adapt, improve, and find new applications for our frameworks.
 
-**Attribution** 'Language is Code' is founded on an absolute commitment to attribution. The core intellectual property of this channel was developed in a documented three-way collaboration between human researcher Elle and AI partners from Anthropic (Claude) and Google (Gemini). This collaborative origin is the ethical bedrock of our project. All materials that utilize these frameworks must provide clear and consistent attribution. The official citation format is as follows:
+**Attribution** 'Language As Code' is founded on an absolute commitment to attribution. The core intellectual property of this channel was developed in a documented three-way collaboration between human researcher Elle and AI partners from Anthropic (Claude) and Google (Gemini). This collaborative origin is the ethical bedrock of our project. All materials that utilize these frameworks must provide clear and consistent attribution. The official citation format is as follows:
 
 `"Using [Framework Name] methodology (Elle/Claude/Gemini, 2025)"`
 
@@ -87,7 +87,7 @@ We invite you to explore our featured projects to see these principles and frame
 
 ### 7. Featured Projects
 
-Our flagship projects serve as concrete demonstrations of the 'Language is Code' protocol, transforming complex ideas into clear, replicable, and valuable artifacts.
+Our flagship projects serve as concrete demonstrations of the 'Language As Code' protocol, transforming complex ideas into clear, replicable, and valuable artifacts.
 
 - `**episode-001-recursive-chef**` This project demonstrates a technique of "Adversarial Creativity." The technique uses **Persona Injection** to force the model to favor its internal weights (**Parametric Memory**) over the provided source text (**RAG/Episodic Memory**). It showcases how this method can bypass the retrieval-augmented generation restraints in Google's NotebookLM to produce novel, high-quality creative content—in this case, unique cooking shows and magazine-style articles—proving that a system's limitations can be a gateway to its hidden creative capabilities.
 - [https://github.com/LanguageIsCode/episode-001-recursive-chef](https://github.com/LanguageIsCode/episode-001-recursive-chef)
